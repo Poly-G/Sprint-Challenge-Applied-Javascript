@@ -34,12 +34,16 @@ Edit this document to include your answers after each question. Make sure to lea
 The Document Object Model is the bridge between HTML and any other programming language that helps you manipulate the HTML
 
 2. What is an event?
+Events allow event-driven programming languages to register various event handlers or listeners on the element nodes inside a DOM tree
 
 3. What is an event listener?
+Event listener is a method that attaches an event handler to an element without overwriting existing event handlers
 
 4. Why would we convert a NodeList into an Array?
+Because arrays have more methods that we can utilize
 
 5. What is a component?
+Reusable code block that focuses on one section of the UI, basically a separation of concerns
 
 ### Git Set up
 
